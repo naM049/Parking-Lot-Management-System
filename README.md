@@ -17,7 +17,7 @@ The system should be able to:
 ## Assumptions
 - The parking lot is a simple parking lot with no special features like valet parking, etc.
 - The parking lot has a fixed number of parking slots.
-- The parking lot can have 3 types of slots: trucks, bike and car slots.
+- The parking lot can have 3 types of slots: truck, bike and car slots.
 - The parking lot can have multiple floors.
 - In each floor the first slot is for trucks, the second and the third slots are for bikes and the rest are for cars.
 
